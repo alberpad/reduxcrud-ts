@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "nombre": "Elevador 2 columnas US982",
+      "precio": "4200",
+      "id": 2
+    },
+    {
+      "nombre": "Pastel 4",
+      "precio": "95",
+      "id": 3
+    },
+    {
+      "nombre": "Pastel de Zanahoria",
+      "precio": "45",
+      "id": 4
+    },
+    {
+      "nombre": "Pastel de Chocolate",
+      "precio": "60",
+      "id": 5
+    },
+    {
+      "nombre": "Pastel de Fresa y Chocolate",
+      "precio": "55",
+      "id": 6
+    },
+    {
+      "nombre": "Desmontadora de ruedas S222",
+      "precio": "3250",
+      "id": 7
+    },
+    {
+      "nombre": "Equilibradora de ruedas S448",
+      "precio": "3500",
+      "id": 8
+    }
+  ]
+}
